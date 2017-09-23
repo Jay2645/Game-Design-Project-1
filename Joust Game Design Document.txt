@@ -14,6 +14,7 @@ Game rules and procedures:
 1. Everyone (3 or more people) draws 3 cards.
 2. Everyone reveals their hand.
 2. The person with the best hand (determined using the same rules as Poker) has “initiative” and can choose someone to joust.
+	a. If playing with 4 or more players, the person with the "worst" hand (i.e., fewest number of pairs, or lowest-value face card) has immunity.
 3. The jouster and their target both roll a die.
 	a. The winner of the die roll is determined by who rolls the higher number.
 	b. If the outcome of the die is the same, both players re­roll until there is a winner.
