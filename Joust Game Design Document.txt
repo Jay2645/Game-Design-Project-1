@@ -1,0 +1,21 @@
+Game title: Joust 
+
+Short description of the game:
+
+Game elements:
+* Standard deck of 52 playing cards
+* 1 die (any die can be used; we personally use a 6-sided die).
+
+Number of players and age restriction: 
+* 3+ players
+* No age restrictions
+
+Game rules and procedures:
+1. Everyone (3 or more people) draws 3 cards
+2. The person with the best hand (determined using the same rules as Poker) has “initiative” and can choose someone to joust.
+3. The jouster and their target both roll a die.
+	a. If the outcome of the die is the same, both players re­roll until there is a winner.
+4. Everyone inserts all the cards they drew this turn back into the deck.
+	a. The loser keeps one of the cards they drew this turn (they can choose which) and inserts the rest back into the deck.
+	b. If keeping a card would cause the loser to have 3 cards, they are eliminated.
+5. Once play has narrowed down to 2 people, they joust each other 3 times. Best of 3 is the winner.
