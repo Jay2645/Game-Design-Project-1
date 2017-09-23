@@ -1,6 +1,7 @@
 Game title: Joust 
 
 Short description of the game:
+Joust is a game involving both playing cards and a die, where you are all knights facing off each other in a grand tournament. Each turn, someone selected by the royal family chooses another knight to joust, rolling a die to try and knock them off their horse. If you get knocked off your horse 3 times, you lose the game.
 
 Game elements:
 * Standard deck of 52 playing cards
@@ -13,7 +14,14 @@ Number of players and age restriction:
 Game rules and procedures:
 1. Everyone (3 or more people) draws 3 cards.
 2. Everyone reveals their hand.
-2. The person with the best hand (determined using the same rules as Poker) has “initiative” and can choose someone to joust.
+2. The person with the best hand has “initiative” and can choose someone to joust.
+	a. The "best hand" is determined by the following rules:
+		1. Their hand contains cards in increasing order (Jack, Queen, King).
+		2. They have all 4 of the same card.
+		3. They have 3 of the same card.
+		4. They have a pair of matching cards (2 4s, 2 8s).
+		5. If nobody has any pairs, the person with the highest value on their cards is the winner (i.e., 9 beats a 7).
+			i. If there is a tie, a dice roll is used to determine who has initiative.
 	a. If playing with 4 or more players, the person with the "worst" hand (i.e., fewest number of pairs, or lowest-value face card) has immunity.
 3. The jouster and their target both roll a die.
 	a. The winner of the die roll is determined by who rolls the higher number.
